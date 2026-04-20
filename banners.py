@@ -7,8 +7,10 @@ def main():
 
     for i in range(1, sys.maxsize):
         if i == sys.maxsize - 1:  # Just to avoid actually running forever 😅
-            print(f"{i} much :) <3")
+            print("so ")
             break
+            
+    print("much :) <3")
 
     # Dictionary/HashMap of all your amazing qualities
     jaanu_ratings = {
